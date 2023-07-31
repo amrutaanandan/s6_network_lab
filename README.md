@@ -10,7 +10,7 @@ client files: filenamec.c<br>
 <p>Implement client-server communication using socket programming and TCP as transport layer protocol in C</p>
 <h3><a href="UDP">UDP</a></h3>
 <p>Implement client-server communication using socket programming and UDP as transport layer protocol in C</p>
-<h3><a href="">Sliding Window</h3>
+<h3><a href="Sliding Window">Sliding Window</h3>
 <p>Simulate sliding window flow control protocols
   <ol>
     <li>Implement Stop and Wait ARQ Protocol in C</li>
@@ -19,11 +19,11 @@ client files: filenamec.c<br>
   </ol>
 </p>
 
-<h3>SMTP</h3>
+<h3><a href="SMTP">SMTP</a></h3>
 <p>Implement Simple Mail Transfer Protocol in C</p>
 
-<h3>FTP</h3>
+<h3><a href="FTP">FTP</a></h3>
 <p>Implement File Transfer Protocol in C</p>
 
-<h3>DVR</h3>
+<h3><a href="DVR">DVR</a></h3>
 <p>Implement Distance Vector Routing protocol in C</p>
